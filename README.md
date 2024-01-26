@@ -1,3 +1,3 @@
 # github-recitation-S24
 
-Five Guys has the best burgers.
+In-N-Out has the best burgers!!!
